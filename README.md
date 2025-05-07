@@ -116,7 +116,7 @@ Rekomendasi yang dihasilkan berdasarkan kata kunci "Mark":
 - Melakukan embedding menggunakan *RecommenderNet*
 - Kompilasi dengan *BinaryCrossentropy*, *Adam Optimizer*, dan evaluasi dengan RMSE
 
-Hasil Top 1 rekomendasi buku:
+Hasil Top 2 rekomendasi buku:
 
 | Judul Buku | Penulis |
 |------------|---------|
