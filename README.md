@@ -92,7 +92,7 @@ rating = rating[:1000]
 - Mengecek ukuran dan mengonversi rating menjadi float
 - Melatih data dengan membagi train-test 82%:18%
 
-## Modeling
+## Modeling and Results 
 
 ### Content Based Filtering
 
