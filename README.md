@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/748010a9-8b11-49fe-9365-8247ff054987)
 
 # Laporan Proyek Machine Learning - Mifta Rizaldirahmat
 
